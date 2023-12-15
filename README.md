@@ -1,1 +1,1 @@
-{"LICENSI","LICENSI1","LICENSI2","LICENSE4,"Konpaka,"Konpaka"}
+{"LICENSI","LICENSI1","LICENSI2","LICENSE4,"Konpaka,"Konpaka,"KON2"}
