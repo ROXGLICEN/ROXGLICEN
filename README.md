@@ -1,1 +1,1 @@
-License = {"aweaweawe","stupid}
+{"aweaweawe"}{"stupid}
