@@ -1,1 +1,1 @@
-License = {,"ajdbhjaw"}
+License = {"ajdbhjaw"}
