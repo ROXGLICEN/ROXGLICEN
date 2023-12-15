@@ -1,1 +1,1 @@
-License = {"aweaweawe"}
+License = {"aweaweawe","stupid"}
