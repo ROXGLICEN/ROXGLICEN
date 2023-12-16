@@ -1,1 +1,1 @@
-{"aweaweawe","stupid","adri100","Parse,"Nero,"konpakadog,"adri100,"beatkarbu1,"awsea,"aweawe,"ae"}
+{"adri100","Nero"adri100,"beatkarbu1}
